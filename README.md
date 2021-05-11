@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigzinu&show_icons=true&theme=dracula)
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigzinu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zigzinu&repo=til)](https://github.com/zigzinu/til)
 
 <!--
 **zigzinu/zigzinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
