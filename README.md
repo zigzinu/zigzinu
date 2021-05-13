@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact)
 
-<img align="center" src="https://media.giphy.com/media/26BGqMb4MNrzr1UQ0/giphy.gif" alt="welcome" height="200"/>
-
 <!--
 Readme Card Guide
 https://github.com/anuraghazra/github-readme-stats
