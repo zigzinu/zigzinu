@@ -1,10 +1,10 @@
-<img align="center" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="welcome" height="100"/>
-
 [![Jinwoo An's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigzinu&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=zigzinu&show_icons=true&theme=dracula)
 
-[![Jinwoo An's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu)](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu)
+[![Jinwoo An's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu&theme=dracula)](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact)
+
+<img align="center" src="https://media.giphy.com/media/26BGqMb4MNrzr1UQ0/giphy.gif" alt="welcome" height="200"/>
 
 <!--
 Readme Card Guide
