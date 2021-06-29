@@ -1,6 +1,6 @@
 [![Jinwoo An's GitHub stats](https://github-readme-stats.vercel.app/api?username=zigzinu&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=zigzinu&show_icons=true&theme=dracula)
 
-[![Jinwoo An's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu&theme=dracula)](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu)
+[![Jinwoo An's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/wakatime?username=zigzinu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzinu&layout=compact)
 
